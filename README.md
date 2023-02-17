@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Languages and Tools:
+bash c cplusplus css3 docker figma git heroku html5 javascript linux mysql nginx postgresql rails ruby sass Notion vue3
+
 <!--
 **Jcalon/Jcalon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
